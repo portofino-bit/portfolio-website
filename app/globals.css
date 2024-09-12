@@ -9,3 +9,8 @@ html{
 .borderBlack{
     @apply border border-black/10;
 }
+
+.img{
+    background-image: url("https://upcdn.io/kW15cDa/raw/myphoto.jpg");
+    background-size: cover       
+}
