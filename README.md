@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎨 My Portfolio  
 
-## Getting Started
+Welcome to my portfolio! This is a showcase of my work, skills, and projects.  
 
-First, run the development server:
+## 📌 About Me  
+I'm **Ahme E. Hassan**, a **FullStack NEXTJS**.  
+I specialize in **senior at MUI, React.js, App Router**.  
+This portfolio highlights my best projects and demonstrates my abilities in **web developmint**.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## 🚀 Features  
+- **Responsive Design** – Works seamlessly on all devices.  
+- **Projects Showcase** – A collection of my best work.  
+- **Tech Stack** – Built with Nextjs, React, Tailwind.   
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔗 Live Demo  
+Check out my portfolio here: [your portfolio link]adsfasdfadsfasdfasdfdsf  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Technologies Used  
+- **Frontend:** Nextjs, react, Ts   
+- **Other Tools:** Framer-motion, react-intersection-observer, react-hot-toast, react-vertical-timeline-component.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📬 Contact  
+Feel free to reach out!  
 
-## Learn More
+📧 **Email:** ahmedemad444466@gmail.com
+💼 **LinkedIn:** Ahmed Emad Altememe
+🐙 **GitHub:** portofino-bit
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
