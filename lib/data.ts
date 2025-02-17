@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import gym from "@/public/gym.png";
 import todo from "@/public/todo.png";
 import calc from "@/public/calc.png";
+import myimg from "@/public/myphoto.jpg"
 
 export const links = [
   {

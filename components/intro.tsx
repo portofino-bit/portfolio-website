@@ -10,6 +10,7 @@ import { FaGithubSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
 
+
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
   const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
@@ -32,7 +33,7 @@ export default function Intro() {
           >
             <Image
             
-              src=""
+              src="/myphoto.jpg"
                alt="Ahmed"
               width="1"
               height="1"
