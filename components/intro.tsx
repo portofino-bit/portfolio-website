@@ -35,9 +35,9 @@ export default function Intro() {
             
               src="/myphoto.jpg"
                alt="Ahmed"
-              width="1"
-              height="1"
-              quality="95"
+              width="96"
+              height="96"
+              quality="100"
               priority={true}
               className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl img"
             />
